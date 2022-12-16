@@ -1,0 +1,1 @@
+lab_2.exe Input.txt Output.txt

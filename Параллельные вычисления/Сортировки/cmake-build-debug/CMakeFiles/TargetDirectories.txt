@@ -1,0 +1,3 @@
+C:/Users/Vadim/Desktop/University/Fast computing algorithms/cmake-build-debug/CMakeFiles/Fast_computing_algorithms.dir
+C:/Users/Vadim/Desktop/University/Fast computing algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vadim/Desktop/University/Fast computing algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

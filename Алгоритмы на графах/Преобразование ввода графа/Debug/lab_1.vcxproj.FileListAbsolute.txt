@@ -1,0 +1,2 @@
+C:\Users\Vadim\Desktop\Университет\Алгоритмы на графах\lab_1\Debug\lab_1.exe
+C:\Users\Vadim\Desktop\Университет\Алгоритмы на графах\lab_1\Debug\lab_1.pdb
